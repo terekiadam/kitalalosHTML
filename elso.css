@@ -1,0 +1,11 @@
+body{
+    background-color: #f7dcbc;
+}
+#gomb{
+    background-color: #000000;
+    color: #f7dcbc;
+}
+
+#tippek{
+    border: 2px dotted black;
+}
